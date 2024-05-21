@@ -1,0 +1,31 @@
+Nederlands:
+Hierbij een overzicht van de aanpassingen ten opzichte van de geprinte versies
+
+Errata Opgaven:
+2f) Aanname H veld groter dan 0 toegevoegd.
+3) 	Tekens van m in de eerste Hamiltoniaan gecorrigeerd.
+3d) Missende factor i voor ky term in vergelijking 3.1 toegevoegd.
+6e) Zin afgemaakt: Id2x2 is de 2x2 identiteitsmatrix.
+7a) Hoek phi is gedefinieerd ten opzichte van horizontale richting in plaats van de verticale richting.
+
+Errata Antwoorden:
+2c) Typo van omgewisselde N+ and N in exponent van tweede regel van uitdrukking Q verbeterd.
+2f) Aanname H veld groter dan 0 toegevoegd.
+2g) Uitleg uitgebreid voor Delta S2 >0 voor positieve energie verandering.
+3f) Antwoord toegevoegd.
+
+English:
+Here is an overview of the changes made with respect to the printed versions
+
+Errata Opgaven:
+2f) Added assumption H field larger than 0.
+3) 	Corrected signs of m in the first expression for the Bloch Hamiltonian.
+3d) Added missing factor i in front of ky in equation 3.1.
+6e) Completed the sentence about Id2x2 being the 2x2 identity matrix.
+7a) Corrected definition of angle phi: Defined with respect to horizontal direction instead of vertical.
+
+Errata Antwoorden:
+2c) Corrected typo where N+ and N were switched around in exponent from second line of expression for Q.
+2f) Assumption H field larger than 0.
+2g) Expanded explanation: Also Delta S2 > 0 for positive change in energy 
+3f) Added solution.
